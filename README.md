@@ -7,10 +7,13 @@ Major League Baseball has long known that bat design shapes performance, yet geo
 
 ## Data
 
-For final benchmarking and validation, all ground-truth measurements and camera images were obtained from baseball bats used by active players on the Baltimore Orioles roster. This dataset includes high-resolution images and corresponding manual caliper measurements of seven game-used bats. Due to competitive concerns, and because neither the individual players nor the Baltimore Orioles management have granted permission to publicly release their bat geometry, this portion of the dataset remains private.
+For final benchmarking and validation, all ground-truth measurements and camera images were obtained from professional baseball bats used by MLB players and provided by the Baltimore Orioles. Each bat was marked at one-inch intervals along its length with pencil, and diameters at each mark were measured with calipers three to four times per interval, with the average recorded to minimize noise and measurement error. This produced a dense, high-resolution, and reproducible geometric profile that served as ground truth for evaluating the pipeline.
 
-However, during the early development of our pipeline, we used non-proprietary bats for initial testing and prototyping. The dimensions and images of these bats are not subject to confidentiality restrictions and are included below. Please note that this subset, now publically released, does not comprise the full dataset used to train and evaluate the final version of the pipeline.
+During the early development and internal testing phase, before the Orioles dataset was incorporated, we trialed this measurement procedure on non-proprietary bats. As an illustrative example, we collected measurements on a Louisville Slugger WBL2689 (Genuine MIX Natural, 34-inch) bat. This all-natural wood model features an uncupped barrel design, an unfinished handle for grip, and the iconic Louisville Slugger branding. The product page is available at: [slugger.com](https://www.slugger.com/en-us/product/genuine-mix-natural-wbl2689?ef_id=CjwKCAjw_-3GBhAYEiwAjh9fUK_feS41eyZIyxvYTorBjdtwlIWU0bEgSLPkNzm0cHCjlAeYFFj9GxoC0KAQAvD_BwE:G:s&s_kwcid=AL!15981!3&utm_source=x&utm_medium=ps|shp|dy&utm_campaign=SEM_PMAX_SLUGGER_BTG_BASEBALL&cmpid=ps|shp|dy|x|SEM_PMAX_SLUGGER_BTG_BASEBALL|&gad_source=1&gad_campaignid=17190794525&gbraid=0AAAAADcc_XA4C2CmFkEYkt81jyUxw-b4f&gclid=CjwKCAjw_-3GBhAYEiwAjh9fUK_feS41eyZIyxvYTorBjdtwlIWU0bEgSLPkNzm0cHCjlAeYFFj9GxoC0KAQAvD_BwE
+).
+For this bat, as with the Orioles dataset, each one-inch mark was measured multiple times with calipers and averaged to ensure consistency. The images and averaged caliper data for this development bat are publicly released to demonstrate the methodology.
 
+While the WBL2689 example highlights the protocol in a transparent and replicable way, the Orioles-provided professional bats remain the core dataset for this project, all measured with the identical pencil-marking and repeated-caliper procedure to ensure comparability and rigor.
 
 ### Non-Proprietary Bat 1
 **Ground-Truth Measurements:**
