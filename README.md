@@ -2,11 +2,7 @@
 
 ## Introduction
 
-From early swing analytics to today’s torpedo bats, Major League Baseball has long recognized that bat design matters. Yet, despite bats being the only point of contact on offense between a team’s $325 million payroll and baseball, bat geometry remains under-measured — typically reduced to a few manual caliper checks.   
-
-Subtle geometric variations affect swing mechanics and contact quality, yet without high-resolution, scalable tools, their impact remains hard to quantify. Lacking sharper data and faster workflows, teams are forced to extrapolate from incomplete information. Bat geometry isn’t an overlooked variable — it’s a well-known gold mine constrained by manual methods.  
-
-In partnership with Sig Mejdal and John Asel of the Baltimore Orioles, we introduce BatVision, an automated pipeline that transforms bat geometry from manual checks into a scalable competitive edge. Providing reproducible, high-resolution measurements at scale, BatVision cuts inventory processing time, informs GMs how design choices affect on-field performance, and enables downstream applications such as individualized bat fitting, manufacturing QA, and opponent-equipment analysis.  
+Major League Baseball has long known that bat design shapes performance, yet geometry inside front offices is still captured with just a few caliper checks. Subtle variations that influence swing mechanics, contact quality, and durability go largely unmeasured, leaving teams to extrapolate from incomplete data. In partnership with the Baltimore Orioles, we developed BatVision, a computer vision pipeline that transforms bat geometry from manual snapshots into high-resolution, scalable profiles. By automating measurement, BatVision cuts processing time from minutes to seconds, expands detail by orders of magnitude, and reframes bat modeling from a bottleneck into a competitive advantage for quality assurance, individualized fitting, and opponent-equipment analysis 
 
 
 ## Data
