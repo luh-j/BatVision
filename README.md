@@ -13,7 +13,7 @@ During the early development and internal testing phase, before the Orioles data
 ).
 For this bat, as with the Orioles dataset, each one-inch mark was measured multiple times with calipers and averaged to ensure consistency. The images and averaged caliper data for this development bat are publicly released to demonstrate the methodology.
 
-While the WBL2689 example highlights the protocol in a transparent and replicable way, the Orioles-provided professional bats remain the core dataset for this project, all measured with the identical pencil-marking and repeated-caliper procedure to ensure comparability and rigor.
+While the WBL2689 example highlights the protocol in a transparent and replicable way, the Orioles-provided professional bats remain the core dataset for this project, all measured with the identical interval and repeated caliper readings to ensure comparability and rigor.
 
 ### Non-Proprietary Bat 1
 **Ground-Truth Measurements:**
