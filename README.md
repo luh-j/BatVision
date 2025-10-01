@@ -1,6 +1,6 @@
 # BatVision: Regression-Calibrated Single-View Computer Vision Pipeline for Precise Baseball Bat Analysis and Quality Control
 
-*Introduction*
+***Introduction***
 
 From early swing analytics to today’s torpedo bats, Major League Baseball has long recognized that bat design matters. Yet, despite bats being the only point of contact on offense between a team’s $325 million payroll and baseball, bat geometry remains under-measured — typically reduced to a few manual caliper checks.   
 
@@ -9,7 +9,7 @@ Subtle geometric variations affect swing mechanics and contact quality, yet with
 In partnership with Sig Mejdal and John Asel of the Baltimore Orioles, we introduce BatVision, an automated pipeline that transforms bat geometry from manual checks into a scalable competitive edge. Providing reproducible, high-resolution measurements at scale, BatVision cuts inventory processing time, informs GMs how design choices affect on-field performance, and enables downstream applications such as individualized bat fitting, manufacturing QA, and opponent-equipment analysis.  
 
 
-*Data*
+***Data***
 
 For final benchmarking and validation, all ground-truth measurements and camera images were obtained from baseball bats used by active players on the Baltimore Orioles roster. This dataset includes high-resolution images and corresponding manual caliper measurements of seven game-used bats. Due to competitive concerns, and because neither the individual players nor the Baltimore Orioles management have granted permission to publicly release their bat geometry, this portion of the dataset remains private.
 
