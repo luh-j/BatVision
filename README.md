@@ -23,6 +23,8 @@ While the WBL2689 example highlights the protocol in a transparent and replicabl
 
 **Image:**
 Please see /images/bat1.jpg
+(Note: This image was pre-processed for an early prototype of our pipeline. No such pre-processing is needed in the final system.)
+
 
 ### Non-Proprietary Bat 2
 **Ground-Truth Measurements:**
@@ -32,6 +34,8 @@ Please see /images/bat1.jpg
 
 **Image:**
 Please see /images/bat2.jpg
+(Note: This image was pre-processed for an early prototype of our pipeline. No such pre-processing is needed in the final system.)
+
 
 
 
