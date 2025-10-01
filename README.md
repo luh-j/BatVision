@@ -15,7 +15,7 @@ For this bat, as with the Orioles dataset, each one-inch mark was measured multi
 
 While the WBL2689 example highlights the protocol in a transparent and replicable way, the Orioles-provided professional bats remain the core dataset for this project, all measured with the identical interval and repeated caliper readings to ensure comparability and rigor.
 
-### Non-Proprietary Bat 1
+### Bat 1
 **Ground-Truth Measurements:**
 | Measurement Interval (in) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 |
 |----------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -27,7 +27,7 @@ Please see /images/bat1.jpg
 (Note: This image was pre-processed for an early prototype of our pipeline. No such pre-processing is needed in the final system.)
 
 
-### Non-Proprietary Bat 2
+### Bat 2
 **Ground-Truth Measurements:**
 | Measurement Interval (in) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 |
 |----------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
